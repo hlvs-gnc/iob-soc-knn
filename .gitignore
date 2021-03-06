@@ -48,6 +48,7 @@ document/pb/xil_results.tex
 document/pb/alt_results.tex
 
 test.log
+test_results
 
 hardware/fpga/CYCLONEV-GT-DK/boot.hex
 hardware/fpga/CYCLONEV-GT-DK/firmware.hex
